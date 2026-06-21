@@ -1,16 +1,23 @@
-## Hi there 👋
+Hello There! 👋
 
-<!--
-**SalixJs/SalixJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Senac, no Brasil.
 
-Here are some ideas to get you started:
+Gosto de construir coisas que chamam minha atenção — geralmente projetos que me ajudam a aprender ou testar algo novo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+
+🎓 Estudando ADS no Senac
+🌱 Ainda explorando minha stack ideal — sempre experimentando novas linguagens e ferramentas
+💡 Gosto de aprender construindo: se uma ideia me interessa, eu tento colocar a mão na massa
+📍 Brasil
+
+🎯 Fatos curiosos
+
+🎌 Curto anime
+🎵 Música
+🐱 Gatos
+
+🗣️ Idiomas
+
+🇧🇷 Português (nativo)
+🇺🇸 Inglês (intermediário)
